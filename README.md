@@ -1,5 +1,3 @@
-## ✨ Why This Project?
-
 This digital clock project demonstrates how a clean and modern time display can be created using only **HTML and CSS**.  
 It focuses on:
 
